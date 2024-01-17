@@ -1,0 +1,60 @@
+{
+  "series": [
+    {
+      "id": 1,
+      "nomeSerie": "Friends",
+      "temporadas": 10,
+      "elenco": "Jennifer Aniston, Lisa Kudrow, Matthew Perry, David Schwimmer, Courteney Cox, Matt LeBlanc",
+      "produtora": "NBC",
+      "anoLancamento": 1994
+    },
+    {
+      "id": 2,
+      "nomeSerie": "Jornada nas Estrelas",
+      "temporadas": 3,
+      "elenco": "William Shatner, Leonard Nimoy, Nichelle Nichols, DeForest Kelley, George Takei, James Doohan, Walter Koenig",
+      "produtora": "Paramount Television",
+      "anoLancamento": 1966
+    },
+    {
+      "id": 3,
+      "nomeSerie": "Reacher",
+      "temporadas": 2,
+      "elenco": "Alan Ritchson, Maria Sten, Malcolm Goodwin, Shaun Sipos, Serinda Swan",
+      "produtora": "Amazon Prime Video",
+      "anoLancamento": 2022
+    },
+    {
+      "id": 4,
+      "nomeSerie": "The Witcher",
+      "temporadas": 3,
+      "elenco": "Henry Cavill, Anya Chalotra, Joey Batey, MyAnna Buring, Freya Allan",
+      "produtora": "Warner Bros. Inc",
+      "anoLancamento": 2019
+    },
+    {
+      "nomeSerie": "Arquivo X",
+      "temporadas": 11,
+      "elenco": "Gillian Anderson, David Duchovny, Mitch Pileggi, William B. Davis",
+      "produtora": "Netflix",
+      "anoLancamento": 1993,
+      "id": "1889"
+    },
+    {
+      "id": 5,
+      "nomeSerie": "Ragnarok",
+      "temporadas": 3,
+      "elenco": "David Stakston, Jonas Strand Gravli, Theresa Frostad Eggesbø, Synnøve Macody Lund, Herman Tømmeraas, Gísli Örn Gardarsson, Henriette Steenstrup",
+      "produtora": "Netflix",
+      "anoLancamento": 2020
+    },
+    {
+      "id": 6,
+      "nomeSerie": "Arquivo X",
+      "temporadas": 11,
+      "elenco": "Gillian Anderson, David Duchovny, Mitch Pileggi, William B. Davis",
+      "produtora": "Netflix",
+      "anoLancamento": 1993
+    }
+  ]
+}
